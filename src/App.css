@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  color: red;
+  background: rgba(107, 192, 242, 0.234);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.person{
+  color: rgb(255, 0, 64);
+  background: rgba(9, 145, 155, 0.563);
+  border: 2px solid #6f8206;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}

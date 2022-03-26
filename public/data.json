@@ -1,0 +1,56 @@
+[
+    {
+      "id": "623e7a81fd835e660e34f8d8",
+      "picture": "../picture/phone2.jpg",
+      "price": 50,
+      "name": "Dominguez Levy"
+    },
+    {
+      "id": "623e7a81147ffea3ddbfaaa9",
+      "picture": "../picture/phone3.jpg",
+      "price": 266,
+      "name": "Angelique Kramer"
+    },
+    {
+      "id": "623e7a816cc6911bd1672053",
+      "picture": "../picture/phone4.jpg",
+      "price": 729,
+      "name": "Tara Gardner"
+    },
+    {
+      "id": "623e7a8191fff4d96546fb8b",
+      "picture": "../picture/phone6.jpg",
+      "price": 196,
+      "name": "Schroeder Stewart"
+    },
+    {
+      "id": "623e7a816d9b575801393ae0",
+      "picture": "../picture/phone7.jpg",
+      "price": 588,
+      "name": "Lottie Wiggins"
+    },
+    {
+      "id": "623e7a8197704e9b2922c8b6",
+      "picture": "../picture/projects.jpg",
+      "price": 65,
+      "name": "Deleon Griffith"
+    },
+    {
+      "id": "623e7a81a7d7eefa9e3b85df",
+      "picture": "../picture/shiwa-id-Uae7ouMw91A-unsplash.jpg",
+      "price": 389,
+      "name": "Natasha Clay"
+    },
+    {
+      "id": "623e7a81b3a9fa21a3a540d9",
+      "picture": "../picture/phone3.jpg",
+      "price": 110,
+      "name": "Roslyn Marshall"
+    },
+    {
+      "id": "623e7a813ec7cf054e158dc2",
+      "picture": "../picture/phone2.jpg",
+      "price": 154,
+      "name": "Jillian Simmons"
+    }
+  ]
