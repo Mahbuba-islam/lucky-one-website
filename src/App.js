@@ -1,13 +1,12 @@
 
 import './App.css';
-import Smartphones from './components/Smartphones/Smartphones';
-
-
+import Shop from './components/Shop/Shop'
 
 function App() {
   return(
     <div>
-    <Smartphones></Smartphones>
+  <Shop></Shop>
+
     </div>
   )
 }
