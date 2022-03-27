@@ -1,11 +1,15 @@
 .shop-section{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 3fr 1fr;
 }
 .cart-container{
     background: rgba(155, 135, 230, 0.453);
-    position: sticky;
-    bottom: 0;
+    
+}
+.cart-heading{
+    text-align: center;
+    margin-top: 40px;
+    color: rgba(0, 0, 255, 0.775);
 }
 @media only screen and (min-width: 768px){
     .phones-container{

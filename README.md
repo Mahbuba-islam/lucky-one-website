@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# lucky-one
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## live website link(https://calm-quokka-62172c.netlify.app/)
 
-## Available Scripts
+## This is first react-project-8
 
-In the project directory, you can run:
+In the react project directory, you can run:
+
 
 ### `npm start`
 

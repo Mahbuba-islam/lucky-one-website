@@ -3,10 +3,10 @@ import './Cart.css'
 const Cart = ({cart}) => {
   console.log(cart)
     return (
-        <div>
-          
-           <h3>{cart.name}</h3>
+         <div>
+      <h3>{cart.name}</h3>
         </div>
+       
     );
 };
 

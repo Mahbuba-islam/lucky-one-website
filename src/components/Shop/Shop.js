@@ -33,11 +33,10 @@ const Shop = () => {
          }
             </div>
             <div className="cart-container">
-               <h2>Selected Phones</h2>
+               <h2 className='cart-heading'>Selected Phones</h2>
                 {
                     cart.map(cart => <Cart 
-           
-                        cart = {cart}></Cart> )
+                  cart = {cart}></Cart> )
                 }
             
             </div>
