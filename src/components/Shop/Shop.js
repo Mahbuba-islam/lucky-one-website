@@ -8,13 +8,18 @@ const Shop = () => {
        .then(res => res.json())
        .then(data => setProducts(data))
    }, [])
+
+   const clickHandler = (product) => {
+    console.log(product)
+}
     return (
         <div className='shop-section'>
            
             <div className="phones-container">
          {
              products.map(product => <Product key = {product.id}
-             product = {product}>
+             product = {product}
+             clickHandler = {clickHandler}>
 
              </Product>)
          }
