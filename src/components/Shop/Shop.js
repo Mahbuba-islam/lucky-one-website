@@ -10,6 +10,7 @@ const Shop = () => {
    }, [])
     return (
         <div className='shop-section'>
+           
             <div className="phones-container">
          {
              products.map(product => <Product key = {product.id}
@@ -19,7 +20,9 @@ const Shop = () => {
          }
             </div>
             <div className="cart-container">
-         <h2>this is cart</h2>
+         <h2>Selected Phone</h2>
+         <button>Choose one for me</button>
+         <button>Choose again</button>
             </div>
         </div>
     );
